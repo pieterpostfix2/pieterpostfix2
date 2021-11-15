@@ -1,1 +1,8 @@
-# DOMAIN NAMES
+# DOMAIN NAMES & HOST NAMES
+# MISP EVENT ID 2209 15-11-2021
+systemctl.network
+net3.me
+lo0.systemctl.network
+eth0.systemctl.network
+dhcp.systemctl.network
+
