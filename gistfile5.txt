@@ -153,3 +153,21 @@ z.bf
 d.pw
 d9.gm
 g.pw
+# MISP EVENT ID 2248 16-11-2021
+onedriveup.today
+filmdooni.net
+observermonitor.com
+ciscosecyrity.com
+consecuritybusiness.com
+orbssecuritybusisys.com
+eachsecuritybuswin.com
+protonmonitor.com
+emusecuritybusaudit.com
+fistauditbusiness.com
+winsysecuritybusiness.com
+jumpsecuritybusiness.com
+securitybusinessbeat.com
+winsysmon.nl
+winsysmon.us
+winsysmonitoring.com
+libovav.com
