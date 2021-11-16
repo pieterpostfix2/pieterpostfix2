@@ -147,3 +147,9 @@ remotetimecheck.com
 futuremixed.com
 fdexcute.com
 keys-networks.com
+# ADD MISP EVENT ID 2246 16-11-2021
+arcticboatz.cz
+z.bf
+d.pw
+d9.gm
+g.pw
