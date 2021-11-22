@@ -4624,3 +4624,24 @@ swj02.gicp.net
 server.microsoftassistant.com
 yspark.justdied.com
 crystalnba.com
+# MISP Event ID 2217 22-11-2021
+cdn-8846-sharepoint-office.com
+cdn-wfs-nspod.com
+cdn03664-dl-fileshare.com
+dzikic-my-sharepoint.com
+dzikics-my-sharepoint.com
+feristoaul.com
+fidufagios.com
+menorukis.su
+# MISP Event ID 2221 22-11-2021
+gsterangsic.buzz
+oscanonamik.club
+riderskop.top
+iserunifish.club
+croperdate.com
+kaslose.com
+cdnsharepoi.xyz
+cdngithub.xyz
+cdnwindow.xyz
+cdnchrome.xyz
+cdnwin.xyz
