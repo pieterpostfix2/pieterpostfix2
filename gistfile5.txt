@@ -4619,3 +4619,8 @@ pasport-yandex.ru.com
 passport-yandex.com.ru
 passport-yandex.ru.com
 servicelogin.com.ru
+# MISP EVENT ID 2254 22-11-2021
+swj02.gicp.net
+server.microsoftassistant.com
+yspark.justdied.com
+crystalnba.com
