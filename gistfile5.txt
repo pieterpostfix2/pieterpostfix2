@@ -4645,3 +4645,8 @@ cdngithub.xyz
 cdnwindow.xyz
 cdnchrome.xyz
 cdnwin.xyz
+# MISP Event ID 2257 25-11-2021
+arcticboatz.cz
+8s.et
+xaqw.k3121.com
+textappearance.compat.notification.info
