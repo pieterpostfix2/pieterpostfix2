@@ -4650,3 +4650,7 @@ arcticboatz.cz
 8s.et
 xaqw.k3121.com
 textappearance.compat.notification.info
+# MISP EVENT ID 2229 26-11-2021
+evcscasha2.ocsp-certum.com
+hosthotelsshtus.com
+digitalagencylks.com
