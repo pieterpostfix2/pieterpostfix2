@@ -2055,3 +2055,27 @@ republicofaf.xyz
 securecheker.in
 appsstore.in
 scout.fontsplugins.com
+# MISP EVENT ID 2197 06-12-2021
+swj02.gicp.net
+server.microsoftassistant.com
+yspark.justdied.com
+crystalnba.com
+# MISP EVENT ID 2269 06-12-2021
+nutrition-information.org
+stgeorgebankers.com
+firstohiobank.com
+allaccounting.ca
+est-clinic.com
+unitedfamilyhealth.net
+pocket-property.com
+kneeexercises.net
+doctoressolis.com
+omegaeyehospital.com
+healthyhabitsusa.com
+niftybuysellchart.com
+dentalmatrix.net
+# MISP EVENT ID 2270 06-12-2021
+darkhost1.ddns.net
+fhctybq110580311081.hopto.org
+nargaroth.ddns.net
+slarc222.hopto.org
