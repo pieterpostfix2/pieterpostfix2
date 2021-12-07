@@ -2079,3 +2079,5 @@ darkhost1.ddns.net
 fhctybq110580311081.hopto.org
 nargaroth.ddns.net
 slarc222.hopto.org
+# MISP EVENT ID 2271 07-12-2021
+seed.nkn.org
