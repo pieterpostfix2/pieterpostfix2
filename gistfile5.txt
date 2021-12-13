@@ -2243,6 +2243,24 @@ bc3b328b071a.bingsearchlib.com
 ef8908f80ff4.bingsearchlib.com
 bb6f692aae16.bingsearchlib.com
 756c9905a560.bingsearchlib.com
-# MISP EVENT ID 2281
+# MISP EVENT ID 2281 13-12-2021
 mail-google.co
 rnail.co
+# MISP EVENT ID 2282 13-12-2021 #log4j
+pwn.af
+kryptoslogic-cve-2021-44228.com
+nijat.space
+psc4fuel.com
+m3.wtf
+flofire.de
+c19s.net
+awsdns-2.org
+bingsearchlib.com
+eg0.ru
+dataastatistics.com
+log4j-test.xyz
+log4j.kingudo.de
+poc.brzozowski.io
+log4jdns.x00.it
+yourdns.zone.here
+ds.rce.ee
