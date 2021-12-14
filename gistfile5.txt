@@ -2264,3 +2264,8 @@ poc.brzozowski.io
 log4jdns.x00.it
 yourdns.zone.here
 ds.rce.ee
+# MISP EVENT ID 2091 14-12-2021
+public.freepub.xyz
+# MISP EVENT ID 2283 14-12-2021 #log4j
+log.exposedbotnets.ru
+nazi.uy
