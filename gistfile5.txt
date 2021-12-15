@@ -2269,3 +2269,20 @@ public.freepub.xyz
 # MISP EVENT ID 2283 14-12-2021 #log4j
 log.exposedbotnets.ru
 nazi.uy
+# MISP EVENT ID 2288 15-12-2021 #log4j
+xyzuv12x8szr9ls5um3yx9zxn.canarytokens.com
+ec725b34.dns.1433.eu.org
+9ee7c9fe.dns.1433.eu.org
+e1g1y8xgw9v7462j92ni67gm6996141uk.interact.sh
+0rim3529oi8m4300gxh8j9782vgp5667h.interact.sh
+1873165ogq294sl2934g9eg455j4m3tvo.interact.sh
+5f3gyn.dnslog.cn
+9gpf69.dnslog.cn
+qpgu9j.dnslog.cn
+ro2omc.dnslog.cn
+o63hr05513ri409l8jm46l0o0065lz78n.interact.sh
+61k2ev3252274o2ek77941q85t0r9444o.interact.sh
+f43ee288894q4578d67pe5o2vwf08f2lj.interact.sh
+g3lcfo.dnslog.cn
+u3l7ck.dnslog.cn
+82ajo1.dnslog.cn
