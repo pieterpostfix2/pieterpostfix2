@@ -2286,3 +2286,21 @@ f43ee288894q4578d67pe5o2vwf08f2lj.interact.sh
 g3lcfo.dnslog.cn
 u3l7ck.dnslog.cn
 82ajo1.dnslog.cn
+# MISP EVENT ID 2290 16-12-2021 #log4j
+bingsearchlib.com
+bricked.tech
+burpcollaborator.net
+canarytokens.com
+kryptoslogic-cve-2021-44228.com
+interact.sh
+interactsh.com
+pwn.af
+rce.ee
+requestcatcher.com
+scanworld.netec2-13-232-232-64.ap-south-1.compute.amazonaws.com
+kad-arentr-tcp-log.eastus.azurecontainer.io
+log4jdns.x00.it
+log4shell.huntress.com
+naveen.free.beeceptor.com
+service.exfil.site
+vivek.requestcatcher.com
