@@ -2300,7 +2300,6 @@ requestcatcher.com
 scanworld.netec2-13-232-232-64.ap-south-1.compute.amazonaws.com
 kad-arentr-tcp-log.eastus.azurecontainer.io
 log4jdns.x00.it
-log4shell.huntress.com
 naveen.free.beeceptor.com
 service.exfil.site
 vivek.requestcatcher.com
