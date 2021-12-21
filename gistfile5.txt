@@ -2390,3 +2390,5 @@ leviaduc.fr
 dittrich.at
 schneidersystembau.de
 futurvida.com
+# MISP EVENT ID 2296 21-12-2021
+antivirf.ru
