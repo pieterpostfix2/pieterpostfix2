@@ -3275,3 +3275,5 @@ mugsecuritybuss.com
 tuxsecuritybiness.com 
 tiedsecuriybusiness.com 
 prossecuritybusiness.com 
+# MISP EVENT ID 2299 29-12-2021 #Log4j
+mail.techniservinc.com
