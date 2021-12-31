@@ -3277,3 +3277,18 @@ tiedsecuriybusiness.com
 prossecuritybusiness.com 
 # MISP EVENT ID 2299 29-12-2021 #Log4j
 mail.techniservinc.com
+# MISP EVENT ID 2301 31-12-2021 #Log4j
+0xff.fi
+biatch.s3x.gdn
+corpldap.net
+ctf.idi.ntnu.no
+hatkidchan.is-a.dev
+hunter2.nirvanahub.com
+jndiserver.xaliyun.com
+josep.ftp.sh
+kakotkin.ru
+log.andrewa.ru
+logout4shell.sociald.ist
+poc.svm.ink
+rt-payload.sts.saka.dev
+sascha-rothkopf.de
