@@ -3509,3 +3509,9 @@ sutterheights.com
 thebigsurdream.com
 66collins.com
 beachhouse531.com
+# MISP EVENT ID 2307 11-01-2022 #Log4j
+service.trendmrcio.com
+api.rogerscorp.org
+api.sophosantivirus.ga
+apicon.nvidialab.us
+w2zmii7kjb81pfj0ped16kg8szyvmk.burpcollaborator.net
