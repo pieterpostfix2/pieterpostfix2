@@ -3515,3 +3515,9 @@ api.rogerscorp.org
 api.sophosantivirus.ga
 apicon.nvidialab.us
 w2zmii7kjb81pfj0ped16kg8szyvmk.burpcollaborator.net
+# MISP EVENT ID 2308 12-01-2022
+bookitlab.tech
+winaudio-tools.com
+graphic-updater.com
+github.url-mini.com
+office360-update.com
