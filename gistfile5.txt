@@ -3702,3 +3702,7 @@ zexxx.ddns.net
 famesurvelizerditis.sytes.net
 tancesucesm.chickenkiller.com
 artedriendfrim.hopto.org
+# MISP EVENT ID 2318 31-01-2022
+rmssrv2.ru
+rmssrv3.ru
+rmssrv4.ru
