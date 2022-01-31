@@ -3706,3 +3706,9 @@ artedriendfrim.hopto.org
 rmssrv2.ru
 rmssrv3.ru
 rmssrv4.ru
+# MISP EVENT ID 2319 31-01-2022
+arianat.ru
+iruto.ru
+deep-pitched.enarto.ru
+deep-toned.chehalo.ru
+deer-lick.chehalo.ru
