@@ -5598,3 +5598,15 @@ amajai-technologies.work
 baron8.com
 idrivecheck.com
 service1view.com
+# MISP EVENT ID 2336 22-02-2022
+widget.forum-pokemon.com
+ns.ns2-dns.com
+ns.ns3-dns.com
+cs1.wpc-v0cdn.org
+ns3-dns.com
+ns2-dns.com
+wpc-v0cdn.org
+ipv6-wpnc.net
+alt-2cdn.net
+nais-gov.org
+nais-gov.com
