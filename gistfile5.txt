@@ -6898,3 +6898,5 @@ weryfikacja-konta.space
 weryfikacja-poczty.space
 # MISP EVENT ID 2349 03-03-2022
 sinitude.com
+# MISP EVENT ID 2350 03-03-2022
+ockiwumgv77jgrppj4na362q4z6flsm3uno5td423jj4lj2f2meqt6ad.onion
