@@ -6878,3 +6878,23 @@ pis.kontrola-bezpieczenstwa.site
 pis.kontrola-bezpieczenstwa.website
 poczta.kontrola-bezpieczenstwa.site
 poczta.kontrola-bezpieczenstwa.website
+# MISP EVENT ID 2348 03-03-2022
+akademia-mil.space
+bigmir.space
+creditals-email.space
+i-ua.space
+konto-verify.space
+kontrola-poczty.space
+meta-ua.space
+mil-gov.space
+mirrohost.space
+ron-mil.space
+ua-passport.space
+verify-email.space
+verify-mail.space
+walidacja-poczty.space
+walidacja-uzytkownika.space
+weryfikacja-konta.space
+weryfikacja-poczty.space
+# MISP EVENT ID 2349 03-03-2022
+sinitude.com
