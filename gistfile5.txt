@@ -6900,3 +6900,13 @@ weryfikacja-poczty.space
 sinitude.com
 # MISP EVENT ID 2350 03-03-2022
 ockiwumgv77jgrppj4na362q4z6flsm3uno5td423jj4lj2f2meqt6ad.onion
+# MISP EVENT ID 2352 08-03-2022
+id-unconfirmeduser.frge.io
+hatdfg-rhgreh684.frge.io
+ua-consumerpanel.frge.io
+consumerspanel.frge.io
+accounts.secure-ua.website
+i.ua-passport.top
+login.creditals-email.space
+post.mil-gov.space
+verify.rambler-profile.site
