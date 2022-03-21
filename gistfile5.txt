@@ -7028,3 +7028,12 @@ merturku.com
 # MISP EVENT ID 2357 14-03-2022
 forkscenter.fr
 nirsoft.me
+# MISP EVENT ID 2359 21-03-2022
+panelunregistertle-348.frge.io
+eo9p1d2bfmioiot.m.pipedream.net
+eoiw8lhjwuc3sh2.m.pipedream.net
+# MISP EVENT ID 2360 21-03-2022
+h230-ipv4-80-68-188.mynet.it
+# MISP EVENT ID 2363 21-03-2022
+myddosnet.com
+hackyou.xyz
