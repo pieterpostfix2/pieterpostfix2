@@ -7037,3 +7037,5 @@ h230-ipv4-80-68-188.mynet.it
 # MISP EVENT ID 2363 21-03-2022
 myddosnet.com
 hackyou.xyz
+# MISP EVENT ID 2367 23-03-2022
+lapsus-group.com
