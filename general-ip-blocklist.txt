@@ -1,3 +1,5 @@
+### GENERAL IP-BLOCKLIST ###
+### WEBSCANNERS ###
 # Shodan
 198.20.69.74	
 198.20.69.98	
