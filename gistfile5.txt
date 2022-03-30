@@ -7177,3 +7177,7 @@ encorpost.com
 nhn-games.com
 sktelecom.help
 want-helper.com
+# MISP EVENT ID 2376 30-03-2022
+yourgroceries.top
+ssddds1ssd2.com 
+ip-160-153-32-99.ip.secureserver.net
