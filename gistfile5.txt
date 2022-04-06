@@ -7927,3 +7927,8 @@ tnowwako.corolain.ru
 1628957784.corolain.ru
 319492649.corolain.ru
 calendas.ru
+# MISP EVENT ID 2384 06-04-2022
+security-check.telegram.org.ohsxy.com
+telegram.org.security.ohsxy.com
+ohsxy.com
+telsec.org
