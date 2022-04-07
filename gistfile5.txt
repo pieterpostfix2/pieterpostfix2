@@ -7932,3 +7932,8 @@ security-check.telegram.org.ohsxy.com
 telegram.org.security.ohsxy.com
 ohsxy.com
 telsec.org
+# MISP EVENT ID 2385 07-04-2022
+cltrlxvpn.com
+edgeupdater.com
+edgebetaupdater.com
+localhost.exchange
