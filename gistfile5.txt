@@ -7937,3 +7937,10 @@ cltrlxvpn.com
 edgeupdater.com
 edgebetaupdater.com
 localhost.exchange
+# MISP EVENT ID 2389 20-04-2022
+happy.nanoace.co.kr
+mariamchurch.com
+www.aumentarelevisite.com
+www.juneprint.com
+www.jungfrau.co.kr
+www.ric-camid.re.kr
