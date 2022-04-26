@@ -7944,3 +7944,5 @@ www.aumentarelevisite.com
 www.juneprint.com
 www.jungfrau.co.kr
 www.ric-camid.re.kr
+# MISP EVENT ID 2390 20-04-2022
+updatedaemon.com
