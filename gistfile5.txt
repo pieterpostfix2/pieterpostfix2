@@ -7946,3 +7946,8 @@ www.jungfrau.co.kr
 www.ric-camid.re.kr
 # MISP EVENT ID 2390 20-04-2022
 updatedaemon.com
+# MISP EVENT ID 2392 02-05-2022
+33mail.ga
+22timer.ga
+fuzzdb.cf
+rt11.ml
