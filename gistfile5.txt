@@ -8110,3 +8110,25 @@ sroot.xyz
 goksearch.com
 goolapis.tk
 furfen.com
+# MISP EVENT ID 2395 09-05-2022
+bellochao.com
+phinbi.com
+dnstrccs.xyz
+dnstrccs.one
+flash-oss.com
+adobe-update.net
+microsoft-clouds.net
+telenet-cloud.com
+vmware-update.com
+amazon-clouds.com
+4pdaxer.com
+ochakovski.com
+backupcreds.com
+resturant.pics
+scanixu.com
+stopt.ga
+# MISP EVENT ID 2385 09-05-2022
+cltrlxvpn.com
+edgeupdater.com
+edgebetaupdater.com
+localhost.exchange
