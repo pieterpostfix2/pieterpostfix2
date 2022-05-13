@@ -8306,3 +8306,16 @@ healthy-clarence.com
 innovativesitecreations.com
 g08.pw
 burbankskincancercenter.com
+# MISP EVENT ID 2398 13-05-2022
+update.up-win.me
+ns162.nsakadns.com
+image.dataanalyticsclub.com
+avatars.dataanalyticsclub.com
+windows.updatelive-oline.com
+fonts.dataanalyticsclub.com
+linux.updatelive-oline.com
+www.dataanalyticsclub.com
+www.updatelive-oline.com
+up-win.me
+dataanalyticsclub.com
+updatelive-oline.com
