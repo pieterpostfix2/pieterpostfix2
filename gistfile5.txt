@@ -8324,3 +8324,6 @@ molktheir.com
 comefkexow.com
 # MISP EVENT ID 2400 24-05-2022
 shopeup.com
+# MISP EVENT ID 2401 24-05-2022
+debatesoftware.com
+www.sinitude.com
