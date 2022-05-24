@@ -8322,3 +8322,5 @@ updatelive-oline.com
 # MISP EVENT ID 2399 13-05-2022
 molktheir.com
 comefkexow.com
+# MISP EVENT ID 2400 24-05-2022
+shopeup.com
