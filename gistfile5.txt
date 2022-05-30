@@ -8327,3 +8327,17 @@ shopeup.com
 # MISP EVENT ID 2401 24-05-2022
 debatesoftware.com
 www.sinitude.com
+# MISP EVENT ID 2402 30-05-2022
+flashs.ml
+twimg.space
+topsmartservice.com
+cltrixworkspace2.com
+cltrixworkspace1.com
+cltrixworkspace3.com
+allshorin.org
+techniciandi.com
+criobob.com
+timesynchronize.com
+cloudfirefox.com
+crungoogle.cf
+terroklo.com
