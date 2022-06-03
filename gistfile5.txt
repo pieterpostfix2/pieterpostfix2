@@ -8341,3 +8341,5 @@ timesynchronize.com
 cloudfirefox.com
 crungoogle.cf
 terroklo.com
+# MISP EVENT ID 2404 03-06-2022
+nod-update.it
