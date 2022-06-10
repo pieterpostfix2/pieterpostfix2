@@ -8343,3 +8343,6 @@ crungoogle.cf
 terroklo.com
 # MISP EVENT ID 2404 03-06-2022
 nod-update.it
+# MISP EVENT ID 2407 10-06-2022
+op3f1libgh.biz
+larfj7g1vaz3y.net
