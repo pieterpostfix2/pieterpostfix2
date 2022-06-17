@@ -8418,3 +8418,15 @@ powershell.services
 x4k.in
 l4cky.men
 rexdooley.ml
+# MISP EVENT ID 2410 17-06-2022
+t1.hinitial.com
+v2.hinitial.com
+v3.hinitial.com
+v4.hinitial.com
+v5.hinitial.com
+hinitial.com
+df.micfkbeljacob.com
+jack.micfkbeljacob.com
+micfkbeljacob.com
+# MISP EVENT ID 2411 17-06-2022  
+bitrat9300.duckdns.org
