@@ -8430,3 +8430,5 @@ jack.micfkbeljacob.com
 micfkbeljacob.com
 # MISP EVENT ID 2411 17-06-2022  
 bitrat9300.duckdns.org
+# MISP EVENT ID 2413 24-06-2022
+monzywui.gq
