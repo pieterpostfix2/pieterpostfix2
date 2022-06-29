@@ -5205,3 +5205,5 @@ dnssoftwaresolution.com
 # MISP EVENT ID 2417 27-06-2022
 ak.buycheap.cn
 api.cnicchina.com
+# MISP EVENT ID 2420 29-06-2022
+adaptivenet.hostedrmm.com
