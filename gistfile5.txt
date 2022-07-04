@@ -5205,3 +5205,10 @@ dnssoftwaresolution.com
 # MISP EVENT ID 2417 27-06-2022
 ak.buycheap.cn
 api.cnicchina.com
+# MISP EVENT ID 2424 04-07-2022
+baidusite.xyz
+cwvnetwork.com
+garstenspace.com
+bevrealestate.us
+youronlinesports.com
+service1app.com
