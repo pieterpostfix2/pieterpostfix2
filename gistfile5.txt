@@ -5212,3 +5212,11 @@ garstenspace.com
 bevrealestate.us
 youronlinesports.com
 service1app.com
+# MISP EVENT ID 2425 06-07-2022
+knowledgemd.com
+scpulse.com
+idots.cf
+# MISP EVENT ID 2426 06-07-2022
+immersionlabs.net
+# MISP EVENT ID 2427 06-07-2022
+ds.windowsupdate.eu.org
