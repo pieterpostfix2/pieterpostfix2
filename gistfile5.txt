@@ -5222,3 +5222,13 @@ idots.cf
 immersionlabs.net
 # MISP EVENT ID 2427 06-07-2022
 ds.windowsupdate.eu.org
+# MISP EVENT ID 2429 12-07-2022
+mirai.forge.gq
+report.changeme.com
+cnc.1955.ddns.net
+report.1955.ddns.net
+xmbot.ink
+dd.1ind.cn
+dkuug.dk
+a.bh
+4.ws
