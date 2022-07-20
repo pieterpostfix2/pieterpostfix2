@@ -5259,3 +5259,6 @@ opensearch.xyz
 eacreport.xyz
 ofilopex.com
 baidusite.xyz
+# MISP EVENT ID 2433 20-07-2022
+crossfity.com
+techspaceinfo.com
