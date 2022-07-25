@@ -5259,3 +5259,6 @@ opensearch.xyz
 eacreport.xyz
 ofilopex.com
 baidusite.xyz
+# MISP EVENT ID 2434 25-07-2022
+547857.c1.biz
+65487.c1.biz
