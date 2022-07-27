@@ -5265,3 +5265,37 @@ techspaceinfo.com
 # MISP EVENT ID 2434 25-07-2022
 547857.c1.biz
 65487.c1.biz
+# MISP EVENT ID 2435 27-07-2022
+floodx.club
+botnet.goelites.cc
+vpn.komaru.today
+-255.net
+stresser.pw
+report.changeme.com
+beanx99.xyz
+celestial.pw
+# MISP EVENT ID 2436 27-07-2022
+baidentrue.com
+fsamon.com
+zomerax.top
+astrosecurity.net
+usgrim.com
+arui.tk
+ms-defender.com
+tinodechats.store
+c2cb.ml
+processdec.com
+secupdate32x64.net
+agrikoz.com
+htsec.ga
+lahawangluo.co
+international10.info
+fibreklod.com
+taxiinfo.click
+automicrosoft.com
+cloudeshosts.com
+azurehostes.com
+lkiefjeh.cf
+moosfeios.top
+firefoxupdaters.com
+teams-update.com
