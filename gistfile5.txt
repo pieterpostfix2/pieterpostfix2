@@ -5343,3 +5343,7 @@ agent-refactor.dsirf.eu
 subdemo.dsirf.eu
 subdll-drop2.dsirf.eu
 debug-config.dsirflabs.eu
+# MISP EVENT ID 2439 29-07-2022
+gonamod.com
+siekis.com
+worldinfocontact.club
