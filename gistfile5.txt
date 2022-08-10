@@ -5352,3 +5352,6 @@ bafybeidravcab5p3acvthxtwosm4rfpl4yypwwm52s7sazgxaezfzn5xn4.ipfs.infura-ipfs.io
 dark-utilities.xyz
 dark-utilities.pw
 dark-utilities.me
+# MISP EVENT ID 2443 10-08-2022
+combinedresidency.org
+optasko.com
