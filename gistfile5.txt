@@ -5658,3 +5658,9 @@ mycisco.gq
 mycisco-helpdesk.ml
 primecisco.com
 pwresetcisco.com
+# MISP EVENT ID 2447 12-08-2022
+alexbionka.com
+klareqvino.com
+wiandukachelly.com
+ultomductingbig.pro
+projectextracted.com
