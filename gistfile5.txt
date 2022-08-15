@@ -5664,3 +5664,20 @@ klareqvino.com
 wiandukachelly.com
 ultomductingbig.pro
 projectextracted.com
+# MISP EVENT ID 2448 15-08-2022
+time.ntp-server.asia
+linux.updatelive-oline.com
+center.veryssl.org
+# MISP EVENT ID 2449 15-08-2022
+worldpro.buzz
+doctorstrange.buzz
+clipboardgames.xyz
+beetelson.xyz
+tobaccosafe.xyz
+kotlinn.xyz
+fitnesscheck.xyz
+dayspringdesk.xyz
+srvrfontsdrive.xyz
+globalseasurfer.xyz
+ser.dermlogged.xyz
+esr.suppservices.xyz
