@@ -5812,3 +5812,5 @@ msdupdate.com
 downloadupdater.com
 localhost.exchange
 maximumservers.net
+# MISP EVENT ID 2457 08-09-2022
+gendoraduragonkgp126.com
