@@ -5814,3 +5814,15 @@ localhost.exchange
 maximumservers.net
 # MISP EVENT ID 2457 08-09-2022
 gendoraduragonkgp126.com
+# MISP EVENT ID 2459 16-09-2022
+upmirror.top
+mssync.one
+msupdate.top
+tcp443.org
+gupdate.us
+winstore.us
+aptmirror.eu
+msupdate.us
+symantecserver.co
+newdesk.top
+buylap.top
