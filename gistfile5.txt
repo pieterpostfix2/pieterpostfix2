@@ -6029,3 +6029,5 @@ zk.qa
 zk4.me
 zk5.co
 zxn.fyi
+# MISP EVENT 2461 23-09-2022
+networkselfhelp.com
