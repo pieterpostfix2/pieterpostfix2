@@ -6031,3 +6031,7 @@ zk5.co
 zxn.fyi
 # MISP EVENT 2461 23-09-2022
 networkselfhelp.com
+# MISP EVENT ID 2463 04-10-2022
+api.amazonawsreplay.com
+api.microsoftfileapis.com
+selfhelp.windowstearns.com
