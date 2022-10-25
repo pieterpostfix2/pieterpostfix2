@@ -2239,3 +2239,14 @@ curbin.info
 resyscom.net
 setupmylinux.ru
 svchosst.com
+# MISP EVENT ID 2471 25-10-2022
+aspx.io
+notfiled.com
+combinedresidency.org
+advanced-ip-scaner.com
+advanced-ip-scanners.com
+www.get.adobe.com.aspx.io
+gov.mil.ua.aspx.io
+mil.ua.aspx.io
+ua.aspx.io
+mill.co.ua
