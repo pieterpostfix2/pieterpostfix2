@@ -2250,3 +2250,15 @@ gov.mil.ua.aspx.io
 mil.ua.aspx.io
 ua.aspx.io
 mill.co.ua
+# MISP EVENT ID 2472 28-10-2022
+1u.pm
+4j1.xyz
+# MISP EVENT ID 2473 28-10-2022
+guuik.com
+aialadin.com
+amaladin.com
+gororama.com
+softeruplive.com
+softsupdate.com
+softupdatelive.com
+updatesoftlive.com
