@@ -2310,3 +2310,81 @@ groundworkseasy.com
 # MISP EVENT ID 2477 09-11-2022
 adwawdawdwa.gotdns.ch
 cnctst1.ddns.net
+# MISP EVENT ID 2478 07-12-2022
+cache-dns-forwarding.com
+hypertextteches.com
+goo-link.online
+goo-ink.online
+accounts.hypertexttech.com
+# MISP EVENT ID 2479 07-12-2022
+kora442.com
+firebasecrashanalyticz.com
+# MISP EVENT ID 2481 07-12-2022
+edugohars.com
+siteabayt.com
+chrismediaz.com
+ishaolvy.com
+llovepijama.com
+twmbamarket.xyz
+jeanrol.com
+nasudioa.com
+www.arpeissigy.shop
+www.yfolsomcash.shop
+# MISP EVENT ID 2484 07-12-2022
+18.shapurt.ru
+alpha.shapurt.ru
+alterwind.shapurt.ru
+amarillo.shapurt.ru
+americas.shapurt.ru
+an.shapurt.ru
+anaheim.shapurt.ru
+analyzer.shapurt.ru
+announce.shapurt.ru
+announcements.shapurt.ru
+antivirus.shapurt.ru
+ao.shapurt.ru
+ap.shapurt.ru
+apache.shapurt.ru
+apollo.shapurt.ru
+app.shapurt.ru
+app01.shapurt.ru
+app1.shapurt.ru
+apple.shapurt.ru
+application.shapurt.ru
+applications.shapurt.ru
+billing.shapurt.ru
+buy.shapurt.ru
+enter.ardeas.ru
+# MISP EVENT ID 2485 07-12-2022
+outlook-design.com
+# MISP EVENT ID 2486 07-12-2022
+alphaomega-delta.net
+amazones.in
+g00gle.ga
+12307.xyz
+pestctlsvc.host
+mirror-server-ubuntu.com
+tarpallev.com
+padir.pics
+maxkey.online
+nasdiagnostics.xyz
+microstat.online
+aergentaby.cf
+sadrellor.website
+agazud.com
+alfuhin.com
+sevtrom.com
+viltaos.com
+asasyz.com
+rpcmpipe.com
+kaspearsky.com
+connectotels.net
+shavar-services.online
+backfs.com
+msisfx.com
+drbeat.icu
+paloaltocloud.online
+paloaltocloud.org
+altocdn.online
+microsoftonedrive.online
+it-enterprise.cloud
