@@ -2388,3 +2388,11 @@ paloaltocloud.org
 altocdn.online
 microsoftonedrive.online
 it-enterprise.cloud
+# MISP EVENT ID 2490 09-12-2022
+logmeincloudss.com
+tableau-cloud.com
+cloudsteamview.com
+105105105015.com
+internalcheckssso.com
+installationupgrade6.com
+installationsoftware1.com
