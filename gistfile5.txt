@@ -3030,3 +3030,12 @@ expoglobalservice.com
 poasnm.com
 favls.com
 fxpae.com
+# MISP EVENT ID 2501 27-01-2023
+avdev.net
+freegaysnews.com
+donaldtr.com
+aheryngrant.com
+kasperslkyupdate.com
+svcrencst.com
+storkxzsvc.com
+jquery.ovh
