@@ -3157,3 +3157,6 @@ leeetmainchek.workers.dev
 purple2023-1c3fc.kxcdn.com
 health.gleeze.com
 helloworld.redirektert.workers.dev
+# MISP EVENT ID 2508 02-03-2023
+rawgod.net
+vnssinc.com
