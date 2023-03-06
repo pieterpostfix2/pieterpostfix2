@@ -3160,3 +3160,9 @@ helloworld.redirektert.workers.dev
 # MISP EVENT ID 2508 02-03-2023
 rawgod.net
 vnssinc.com
+# MISP EVENT ID 2478 06-03-2023
+cache-dns-forwarding.com
+hypertextteches.com
+goo-link.online
+goo-ink.online
+accounts.hypertexttech.com
