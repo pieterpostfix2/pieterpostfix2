@@ -3302,3 +3302,7 @@ rnail.rnid.ru.inro.link
 srm.mfa.tj.uzdaily.news
 sts.mfa.gov.tr.mypolicy.top
 true.az-link.email
+# MISP EVENT ID 2515 20-03-2023
+xegroups.com
+hivnd.com
+xework.com
