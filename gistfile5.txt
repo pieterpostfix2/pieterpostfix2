@@ -3306,3 +3306,5 @@ true.az-link.email
 xegroups.com
 hivnd.com
 xework.com
+# MISP EVENT ID 2461 23-03-2023
+networkselfhelp.com
