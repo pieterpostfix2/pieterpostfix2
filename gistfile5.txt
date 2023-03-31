@@ -3356,3 +3356,25 @@ leeetmainchek.workers.dev
 purple2023-1c3fc.kxcdn.com
 health.gleeze.com
 helloworld.redirektert.workers.dev
+# MISP EVENT ID 2516 31-03-2023
+akamaicontainer.com
+akamaitechcloudservices.com
+azuredeploystore.com
+azureonlinecloud.com
+azureonlinestorage.com
+dunamistrd.com
+glcloudservice.com
+journalide.org
+msedgepackageinfo.com
+msstorageazure.com
+msstorageboxes.com
+officeaddons.com
+officestoragebox.com
+pbxcloudeservices.com
+pbxphonenetwork.com
+pbxsources.com
+qwepoi123098.com
+sbmsa.wiki
+sourceslabs.com
+visualstudiofactory.com
+zacharryblogs.com
