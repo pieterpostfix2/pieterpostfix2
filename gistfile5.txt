@@ -3378,3 +3378,28 @@ sbmsa.wiki
 sourceslabs.com
 visualstudiofactory.com
 zacharryblogs.com
+# MISP EVENT ID 2508 03-04-2023
+rawgod.net
+vnssinc.com
+# MISP EVENT ID 2516 03-04-2023
+akamaicontainer.com
+akamaitechcloudservices.com
+azuredeploystore.com
+azureonlinecloud.com
+azureonlinestorage.com
+dunamistrd.com
+glcloudservice.com
+journalide.org
+msedgepackageinfo.com
+msstorageazure.com
+msstorageboxes.com
+officeaddons.com
+officestoragebox.com
+pbxcloudeservices.com
+pbxphonenetwork.com
+pbxsources.com
+qwepoi123098.com
+sbmsa.wiki
+sourceslabs.com
+visualstudiofactory.com
+zacharryblogs.com
