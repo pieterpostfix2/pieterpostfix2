@@ -1431,3 +1431,10 @@ teams-app-cdn.com
 # MISP EVENT ID 2578 28-04-2023
 yrhsywu2009.zapto.org
 saspecialforces.co.za
+# MISP EVENT ID 2579 01-05-2023
+veriernano.com
+crackprivate.com
+bluework.ink
+brovserupescheck.info
+bergind.com
+thetechnicalassistant.com
