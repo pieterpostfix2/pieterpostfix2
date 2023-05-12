@@ -1438,3 +1438,33 @@ bluework.ink
 brovserupescheck.info
 bergind.com
 thetechnicalassistant.com
+# MISP EVENT ID 2580 12-05-2023
+download2c.com
+downloadarchiver.com
+downloadgifs.com
+downpdfpwr.com
+pdfconverterpower.com
+# MISP EVENT ID 2580 12-05-2023
+bl.searchpoweronline.com
+bl.pdfconverterpower.com
+bl.searchproonline.com
+info.searchpoweronline.com
+mar.gifsmakerpro.com
+mar.screensrecorder.com
+mar.ziprararchiver.com
+my.gifsearchutils.com
+my.searcharchiver.com
+nsp.screensearchutils.com
+rsn.pdfmagiconline.com
+start.gifsearchutils.com
+start.searcharchiver.com
+stock.searchpoweronline.com
+stock.searcharchiver.com
+www.gifsmakerpro.com
+www.pdfconverterpower.com
+www.pdfconverterpower.net
+www.pdfmagiconline.com
+www.screensrecorder.com
+www.zipfileslikeapro.net
+www.ziprararchiver.com
+zulu-im-01.dressnob.com
