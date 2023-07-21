@@ -1601,3 +1601,7 @@ surplusofer.com
 hyperspeed.top
 accessdevsolutions.com
 cetixsystems.com
+# MISP EVENT ID 2597 21-07-2023
+google-analytiks.com
+googletagmanagar.com
+updateadobeflash.website
