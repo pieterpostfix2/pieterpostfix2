@@ -1605,3 +1605,13 @@ cetixsystems.com
 google-analytiks.com
 googletagmanagar.com
 updateadobeflash.website
+# MISP EVENT ID 2598 31-07-2023
+f.codingdrunk.cc
+a.codingdrunk.cc
+z.cy
+h3h0.ddns.net
+zhudaji.com
+ic.fj
+botnet.shoprbx.com
+ragnarok.bigbots.club
+zhudaji.net
