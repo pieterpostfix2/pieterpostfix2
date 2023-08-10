@@ -1615,3 +1615,14 @@ ic.fj
 botnet.shoprbx.com
 ragnarok.bigbots.club
 zhudaji.net
+# MISP EVENT ID 2604 10-08-2023
+9.cn
+# MISP EVENT ID 2607 10-08-2023
+msftprotection.onmicrosoft.com
+identityverification.onmicrosoft.com
+accountsverification.onmicrosoft.com
+azuresecuritycenter.onmicrosoft.com
+teamsprotection.onmicrosoft.com
+# MISP EVENT ID 2605 10-08-2023
+ethertestnet.pro
+deliworkshopexpress.xyz
