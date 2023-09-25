@@ -1626,3 +1626,11 @@ teamsprotection.onmicrosoft.com
 # MISP EVENT ID 2605 10-08-2023
 ethertestnet.pro
 deliworkshopexpress.xyz
+# MISP EVENT ID 2609 25-09-2023
+bestfindthetruth.com
+goldenunder.com
+singamofing.com
+togetheroffway.com
+gesturefavour.com
+singnode.com
+fessionalwork.com
